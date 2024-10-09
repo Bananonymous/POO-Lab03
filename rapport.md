@@ -1,12 +1,6 @@
 # Rapport Labo 03: Fédération Internationale de Gymnastique
 
-## Introduction
-
-Ce rapport présente une modélisation UML visant à représenter le fonctionnement des événements sportifs organisés et gérés par la Fédération Internationale de Gymnastique (FIG). Ce modèle prend en compte la gestion des fédérations nationales, des gymnastes, des juges, des disciplines, des catégories et des événements sportifs. Il décrit également les opérations et les interactions liées aux inscriptions aux événements, aux performances des gymnastes et aux résultats des compétitions.
-
-### Description
-
-La Fédération Internationale de Gymnastique (FIG) gère des événements sportifs internationaux dans lesquels des fédérations nationales peuvent inscrire leurs gymnastes et leurs juges. Les événements incluent plusieurs disciplines qui sont divisées en différentes catégories. Chaque gymnaste participe à une ou plusieurs catégories et leurs performances sont notées par les juges. Les résultats permettent de déterminer les podiums et les victoires des gymnastes dans chaque catégorie.
+##### Par Nicolet Victor et Surbeck Léon
 
 ### Diagramme UML
 
@@ -78,7 +72,3 @@ Le diagramme UML ci-dessous illustre la structure des classes représentant les 
 1. Une fédération nationale doit avoir au moins deux gymnastes et deux juges pour s'inscrire à un événement (selon la donnée)
 2. Le genre du gymnaste doit correspondre à celui requis par la discipline pour qu'il puisse concourir.
 3. Un événement qui inclut une discipline inclut nécessairement toutes les catégories de cette discipline.
-
-## Conclusion
-
-Ce modèle UML permet de structurer les informations relatives aux événements sportifs de la FIG, en prenant en compte la gestion des fédérations, des disciplines, des catégories et des performances des gymnastes. Il répond aux besoins d'opérations complexes comme la gestion des inscriptions et le calcul des podiums, tout en assurant des contraintes d'intégrité essentielles au bon déroulement des compétitions.
