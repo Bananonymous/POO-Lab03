@@ -1287,8 +1287,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -16,
-									"top": 128,
+									"left": 248,
+									"top": -88,
 									"width": 10,
 									"height": 10
 								},
@@ -1303,8 +1303,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -16,
-									"top": 128,
+									"left": 248,
+									"top": -88,
 									"width": 10,
 									"height": 10
 								}
