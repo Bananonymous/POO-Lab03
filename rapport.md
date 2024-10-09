@@ -12,7 +12,7 @@ La Fédération Internationale de Gymnastique (FIG) gère des événements sport
 
 Le diagramme UML ci-dessous illustre la structure des classes représentant les fédérations nationales, les gymnastes, les juges, les disciplines, les catégories et les événements sportifs.
 
-![Diagramme UML Fédération Internationale de Gymnastique](#lien_vers_le_diagramme)
+![Diagramme UML Fédération Internationale de Gymnastique](./imgs/Schéma.png)
 
 ### Explication des choix de modélisation
 
@@ -67,11 +67,9 @@ Le diagramme UML ci-dessous illustre la structure des classes représentant les 
 
 ### Contraintes d'intégrité
 
-1. Une fédération nationale doit avoir au moins un gymnaste et un juge pour s'inscrire à un événement.
+1. Une fédération nationale doit avoir au moins deux gymnastes et deux juges pour s'inscrire à un événement (selon la donnée)
 2. Le genre du gymnaste doit correspondre à celui requis par la discipline pour qu'il puisse concourir.
-3. Une fédération ne peut inscrire plus de 16 gymnastes dans une catégorie.
 4. Un événement qui inclut une discipline inclut nécessairement toutes les catégories de cette discipline.
-5. La note d’un gymnaste dans une catégorie est un réel compris entre 0 et 10.
 
 ## Conclusion
 

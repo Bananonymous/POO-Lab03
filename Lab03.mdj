@@ -1795,7 +1795,7 @@
 										"$ref": "AAAAAAGSUpxZ/5gPYuA="
 									},
 									"edgePosition": 1,
-									"text": "+est composée de <"
+									"text": "est composée de <"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2001,7 +2001,6 @@
 								"$ref": "AAAAAAGSUoU54ZXWnUg="
 							},
 							"points": "384:245;384:324;464:324",
-							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGSUpxZ/5gQ1qU="
 							},
@@ -2058,16 +2057,16 @@
 									},
 									"font": "Arial;13;0",
 									"left": 664,
-									"top": 263,
+									"top": 255,
 									"width": 117.7998046875,
 									"height": 13,
-									"alpha": -0.6202495535503956,
-									"distance": 86.02325267042627,
+									"alpha": -0.691921452422795,
+									"distance": 90.9065454189081,
 									"hostEdge": {
 										"$ref": "AAAAAAGSUpxkSpiX9Mk="
 									},
 									"edgePosition": 1,
-									"text": "+est composée de >"
+									"text": "est composée de >"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2273,7 +2272,6 @@
 								"$ref": "AAAAAAGSUoVMVZYAuUc="
 							},
 							"points": "792:209;792:320;722:320",
-							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGSUpxkSpiY7Ek="
 							},
@@ -2339,7 +2337,7 @@
 										"$ref": "AAAAAAGSUp62vKcTCi8="
 									},
 									"edgePosition": 1,
-									"text": "+est composée de <"
+									"text": "est composée de <"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2549,7 +2547,6 @@
 								"$ref": "AAAAAAGSUorTGZaBJQg="
 							},
 							"points": "262:517;408:517",
-							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGSUp62vKcUCvs="
 							},
@@ -2615,7 +2612,7 @@
 										"$ref": "AAAAAAGSUqCWKLhGd6o="
 									},
 									"edgePosition": 1,
-									"text": "+est composé de ^"
+									"text": "est composé de ^"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2825,7 +2822,6 @@
 								"$ref": "AAAAAAGSUoY5rpZI3p0="
 							},
 							"points": "472:561;472:696",
-							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGSUqCWKLhH17Y="
 							},
